@@ -1,4 +1,4 @@
-[네이버](https://www.naver.com,"ㅅㅅ")
+[네이버](https://www.naver.com,"네이버")
 
 # README 파일이란?
 
